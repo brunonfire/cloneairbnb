@@ -1,0 +1,196 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+  text-decoration: none;
+  font-family: "Circular", -apple-system, "BlinkMacSystemFont", "Roboto",
+    "Helvetica Neue", sans-serif;
+}
+a {
+  text-decoration: none;
+}
+
+.row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.container {
+  width: 100%;
+  height: 80px;
+  background-color: white;
+}
+.color-logo {
+  color: rgb(255, 56, 92);
+}
+.container2 {
+  width: 32px;
+  height: 32px;
+  background-color: rgb(255, 56, 92);
+  border-radius: 50%;
+}
+
+.col1 {
+  width: 10%;
+}
+.col15 {
+  width: 15%;
+}
+
+.col2 {
+  width: 20%;
+}
+
+.col3 {
+  width: 30%;
+}
+.col35 {
+  width: 35%;
+}
+
+.col4 {
+  width: 40%;
+}
+
+.col5 {
+  width: 50%;
+}
+
+.col6 {
+  width: 60%;
+}
+.col65 {
+  width: 65%;
+}
+
+.col7 {
+  width: 70%;
+}
+
+.col8 {
+  width: 80%;
+}
+
+.col9 {
+  width: 90%;
+}
+
+.col10 {
+  width: 1908px;
+}
+
+.flex {
+  display: flex;
+}
+.block {
+  display: block;
+}
+.f-column {
+  flex-direction: column;
+}
+.jc-center {
+  justify-content: center;
+}
+.jc-end {
+  justify-content: flex-end;
+}
+.jc-space {
+  justify-content: space-around;
+}
+.jc-spacebet {
+  justify-content: space-between;
+}
+.jc-start {
+  justify-content: flex-start;
+}
+.relative {
+  position: relative;
+}
+.absolute {
+  position: absolute;
+}
+.w10 {
+  width: 100%;
+}
+
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+
+.pad-top10 {
+  padding-top: 10px;
+}
+.pad-right10 {
+  padding-right: 10px;
+}
+.pad-bottom10 {
+  padding-bottom: 10px;
+}
+.pad-left10 {
+  padding-left: 10px;
+}
+.pad-top15 {
+  padding-top: 15px;
+}
+.pad-right15 {
+  padding-right: 15px;
+}
+.pad-bottom15 {
+  padding-bottom: 15px;
+}
+.pad-left15 {
+  padding-left: 15px;
+}
+.pad-top5 {
+  padding-top: 5px;
+}
+.pad-right5 {
+  padding-right: 5px;
+}
+.pad-bottom5 {
+  padding-bottom: 5px;
+}
+.pad-left5 {
+  padding-left: 5px;
+}
+.pad-top40 {
+  padding-top: 40px;
+}
+.pad-right40 {
+  padding-right: 40px;
+}
+.pad-bottom40 {
+  padding-bottom: 40px;
+}
+.pad-left40 {
+  padding-left: 40px;
+}
+.pad-left50 {
+  padding-left: 50px;
+}
+.pad-left80 {
+  padding-left: 80px;
+}
+.pad-right80 {
+  padding-right: 80px;
+}
+.padf5 {
+  padding: 5px;
+}
+.padf10 {
+  padding: 10px;
+}
+.test {
+  background-color: red;
+}
+.test2 {
+  background-color: green;
+}
+.test3 {
+  background-color: blue;
+}
