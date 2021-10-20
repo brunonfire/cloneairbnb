@@ -9,6 +9,7 @@
 }
 a {
   text-decoration: none;
+  color: black;
 }
 
 .row {
@@ -173,6 +174,9 @@ a {
 .pad-left50 {
   padding-left: 50px;
 }
+.pad-left55 {
+  padding-left: 55px;
+}
 .pad-left80 {
   padding-left: 80px;
 }
@@ -192,5 +196,5 @@ a {
   background-color: green;
 }
 .test3 {
-  background-color: blue;
+  background-color: gray;
 }
