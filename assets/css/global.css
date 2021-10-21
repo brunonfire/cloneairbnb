@@ -85,7 +85,7 @@ a {
 }
 
 .col10 {
-  width: 1908px;
+  width: 1354px;
 }
 
 .flex {
@@ -195,6 +195,9 @@ a {
 .padf10 {
   padding: 10px;
 }
+.h500 {
+  height: 500px;
+}
 .test {
   background-color: red;
 }
@@ -203,4 +206,17 @@ a {
 }
 .test3 {
   background-color: gray;
+}
+.pad-toph {
+  padding-top: 50%;
+}
+.color-black {
+  color: black;
+}
+.text-fillc {
+  background: rgba(0, 0, 0, 0)
+    linear-gradient(90deg, rgb(111, 1, 156) 0%, rgb(198, 1, 126) 135.12%);
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: bold;
 }
