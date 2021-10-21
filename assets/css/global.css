@@ -85,7 +85,7 @@ a {
 }
 
 .col10 {
-  width: 1354px;
+  width: 1908px;
 }
 
 .flex {
@@ -219,4 +219,9 @@ a {
   background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
+}
+@media screen and (max-width: 932px) {
+  .col10 {
+    width: 100%;
+  }
 }
